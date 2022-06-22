@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d7c6811-636d-4781-a3f5-9633939e0348" name="Changes" comment="restart">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-06-22-welcome-to-jekyll.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jekyllsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jekyllsite.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AuqbPgeDUcxm19PHpXf7ZIKoET" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "ruby.rails.projectView.checked": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\johns\RubymineProjects\jekyllsite\posts" />
+    </key>
+  </component>
+  <component name="RubyModuleManagerSettings">
+    <option name="blackListedRootsPaths">
+      <list>
+        <option value="$PROJECT_DIR$" />
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d7c6811-636d-4781-a3f5-9633939e0348" name="Changes" comment="" />
+      <created>1655869889121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655869889121</updated>
+      <workItem from="1655869890332" duration="310000" />
+      <workItem from="1655870568895" duration="523000" />
+      <workItem from="1655871230799" duration="95000" />
+      <workItem from="1655871329033" duration="2577000" />
+      <workItem from="1655877271908" duration="95000" />
+      <workItem from="1655877373642" duration="76000" />
+      <workItem from="1655877454525" duration="854000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1655870025919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655870025919</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1655870580944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655870580944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <created>1655870668718</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655870668718</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1655871562567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655871562567</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1655873234568</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655873234568</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1655873807488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655873807488</updated>
+    </task>
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1655874083601</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655874083601</updated>
+    </task>
+    <task id="LOCAL-00008" summary="restart">
+      <created>1655877342669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655877342669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="restart">
+      <created>1655877470311</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655877470311</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="restart" />
+  </component>
+</project>
